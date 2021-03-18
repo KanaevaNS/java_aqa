@@ -1,0 +1,7 @@
+ gradle tasks
+gradle build
+gradle run
+gradle wrapper
+gradle wrapper --gradle-version=5.1.1
+./gradlew build
+./gradlew run
